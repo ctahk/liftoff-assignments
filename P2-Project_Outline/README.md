@@ -14,12 +14,16 @@ User login: There will be multiple user logins with different permissions. The u
 
 ####Feature 2:
 Update transactions: The Fund manager is the only one who can update transactions for all investors on a daily basis. He will be able to do that using a form in the transactions page. The purpose for this is to have an updated view of all historical transactions for all investors. The investors should then be able to view their most recent portfolio and transactions based off this.
+
 ####Feature 3:
 Update portfolio page: When a fund manager updates the investor’s transactions, the investor’s portfolio page will then be updated using that transactions data.
+
 ####Feature 4:
 Update performance page: When the portfolio page is updated, then the performance page will also be updated using the portfolio data. Users will be able to look at the performance page via a link on the portfolio page.
+
 ####Feature 5:
 Stock price update: Every day the portfolio page will update with up-to-date stock prices using APIs.
+
 ### Technologies
 1. Angular: Frontend
 2. Java: Backend
