@@ -8,4 +8,6 @@ If you have made progress, and you engage with your mentor you will be marked as
 [Project Review Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-review)
 
 ## Submission Instructions
+https://github.com/LaunchCodeLiftoffProjects/cnv-investments
+
 Your mentor will update your grade after your review. If your grade is missing, check in with your Mentor.
